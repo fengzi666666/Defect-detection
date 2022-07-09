@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/mainwindow.jpg</file>
+        <file>res/state_green_48.png</file>
+        <file>res/state_red_48.png</file>
+        <file>res/title.png</file>
+    </qresource>
+</RCC>
